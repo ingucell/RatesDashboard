@@ -1,0 +1,27 @@
+.teller{
+    position: relative;
+    bottom: -40rem;
+    left:33.2rem;
+    width: 72.1%;
+    top:-12rem;
+    background-color: goldenrod;
+    height: 12rem;
+    display: flex;
+    padding: 2rem;
+    gap: 2rem;
+}
+
+.teller--{
+    background-color: rgba(0, 0, 0, 0.322);
+    color: white;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    padding: 3rem;
+    position: relative;
+    top:-0.4rem;
+    margin-left: 8rem;
+    margin-top: 2rem;
+    border-radius: 0.6rem;
+    font-size: 1.3rem;
+}
